@@ -4,7 +4,7 @@
       "properties": {
         "riak": {
           "type": "object",
-          "depscription": "Riak Mesos Framework specific properties",
+          "description": "Riak Mesos Framework specific properties",
           "properties": {
             "master": {
               "type": "string",
